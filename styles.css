@@ -1,0 +1,204 @@
+
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import cursor: url(http://www.rw-designer.com/cursor-extern.php?id=22874);
+
+body {
+  background-color:
+}
+#bigBoy {
+  margin-left: 5%;
+  margin-right: 5%;
+  cursor: 
+
+
+}
+#heading {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  text-shadow: 5px 5px pink;
+  color: #8F858D;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+
+
+.tile {
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  width: 1%;
+  padding-bottom: 1%;
+  display: inline;
+  float: left;
+  background-color: white;
+}
+#black {
+  background-color: #000000;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 75%;
+  border-radius: 50%;
+  position: fixed;
+
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 1;
+}
+
+
+
+
+
+#purple{
+  background-color: #FF37FC;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 71%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 2;
+
+}
+#pink{
+  background-color: #FF3798;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 67%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 3;
+
+}
+
+#teal {
+  background-color: #40F3DE;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 63%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 4;
+
+}
+#yellow {
+  background-color: #FAFF65;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 59%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 5;
+
+
+}
+#green {
+  background-color: #6CFF65;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 55%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 6;
+
+}
+#otherPurple {
+  background-color: #AE7995;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 51%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 6;
+
+}
+#salmon {
+  background-color: #FA8072;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 47%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 8;
+}
+#grey {
+  background-color: #A8C1BA;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 43%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 9;
+}
+#lightPink {
+  background-color: #FFAEED;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 39%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 10;
+}
+#seafoam {
+  background-color: #28E9AF;
+  width: 80px;
+  height: 60px;
+  bottom: 0;
+  right: 35%;
+  border-radius: 50%;
+  position: fixed;
+  padding-top: 17px;
+  font-size: 12px;
+  z-index: 11;
+}
+#colorBox {
+  border-style: groove;
+  border-color: #FFFFFF;
+  border-width: thick;
+  width: 11%;
+  height: 45%;
+  text-align: center;
+  padding-top: .5%;
+  margin-top: .9%;
+  margin-left: 70%;
+  border-radius: 10%;
+  background-color: #FFFFFF;
+
+}
+
+#palette {
+  background-color: #8F858D;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 12%;
+  font-size: 12px;
+}
